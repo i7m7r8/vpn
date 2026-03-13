@@ -1,0 +1,7 @@
+name = "vpn"
+main = "dist/worker.js"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "bpb", id = "5b63d9f40e404c2eb25a7a6d76c8e4c5" }
+]
